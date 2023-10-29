@@ -1,4 +1,4 @@
-CP template with fixed point float (16.16)
+CP template with fixed point values (16.16)
 
 To compile:
 
